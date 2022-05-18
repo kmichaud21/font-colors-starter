@@ -11,21 +11,16 @@ section {
 
 h1 {
   font-size: 2em;
-   
+   color: #7b7d70;
 }
 
 h2 {
   font-size: 1.5em;
+    color: #4eafb8;
 }
-@media (min-width: 280px) {
-  h1 {
-      color: #7b7d70 ; }
-    h2 {
-        color: #4eafb8;
-    }
-    p {
-        color: #ff8641;
-    }
+p {
+    color: #ff8641;
+}
   }
 
 @media (min-width: 768px) {
